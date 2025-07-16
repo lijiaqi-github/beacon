@@ -1,5 +1,5 @@
 # Site settings
-copyright: {{ 'now' | date: "%Y" }} Lijiaqi
+copyright: 2025 Lijiaqi
 url: https://lijiaqi-github.github.io/beacon/
 baseurl: /beacon
 title: Beacon
