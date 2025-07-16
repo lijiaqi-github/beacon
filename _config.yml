@@ -24,6 +24,7 @@ featuretteLink: /elements.html
 feature1Title: title1
 feature1Tagline: Phasellus convallis elit id ullam corper amet et pulvinar. Duis aliquam turpis mauris, sed ultricies erat dapibus.
 feature1Icon: icon major fa-code
+feature1Url: "https://gemini.google.com/app?hl=ja" 
 
 feature2Title: title2
 feature2Tagline: Phasellus convallis elit id ullam corper amet et pulvinar. Duis aliquam turpis mauris, sed ultricies erat dapibus.
