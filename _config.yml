@@ -1,12 +1,11 @@
 # Site settings
-copyright: Untitled
+copyright: 2025 Lijiaqi
 url: https://lijiaqi-github.github.io/beacon/
 baseurl: /beacon
-title: Hyperspace
+title: Beacon
 tagline: by HTML5 UP
 description: "Just another fine responsive site template designed by HTML5 UP<br>and released for free under the Creative Commons."
-contactTagline: Phasellus convallis elit id ullamcorper pulvinar. Duis aliquam turpis mauris, eu ultricies erat malesuada quis. Aliquam dapibus, lacus eget hendrerit bibendum, urna est aliquam sem, sit amet imperdiet est velit quis lorem.
-
+contactTagline: none
 # Contact
 address: "12345 Somewhere Road 654<br>Nashville, TN 00000-0000<br>USA"
 email: name@provider.com
@@ -18,24 +17,24 @@ instagram: username
 linkedin: username
 
 # Featurette -- leave values blank if you do not want them to appear
-featuretteTitle: What we do
+featuretteTitle: A
 featuretteTagline: Phasellus convallis elit id ullamcorper pulvinar. Duis aliquam turpis mauris, eu ultricies erat malesuada quis. Aliquam dapibus, lacus eget hendrerit bibendum, urna est aliquam sem, sit amet imperdiet est velit quis lorem.
 featuretteLink: /elements.html
-feature1Title: Lorem ipsum amet
+feature1Title: title1
 feature1Tagline: Phasellus convallis elit id ullam corper amet et pulvinar. Duis aliquam turpis mauris, sed ultricies erat dapibus.
 feature1Icon: icon major fa-code
-feature2Title: Aliquam sed nullam
+feature2Title: title2
 feature2Tagline: Phasellus convallis elit id ullam corper amet et pulvinar. Duis aliquam turpis mauris, sed ultricies erat dapibus.
 feature2Icon: icon major fa-lock
-feature3Title: Sed erat ullam corper
+feature3Title: title3
 feature3Tagline: Phasellus convallis elit id ullam corper amet et pulvinar. Duis aliquam turpis mauris, sed ultricies erat dapibus.
 feature3Icon: icon major fa-cog
-feature4Title: Veroeros quis lorem
+feature4Title: title4
 feature4Tagline: Phasellus convallis elit id ullam corper amet et pulvinar. Duis aliquam turpis mauris, sed ultricies erat dapibus.
 feature4Icon: icon major fa-desktop
-feature5Title: Urna quis bibendum
+feature5Title: title5
 feature5Tagline: Phasellus convallis elit id ullam corper amet et pulvinar. Duis aliquam turpis mauris, sed ultricies erat dapibus.
 feature5Icon: icon major fa-chain
-feature6Title: Aliquam urna dapibus
+feature6Title: title6
 feature6Tagline: Phasellus convallis elit id ullam corper amet et pulvinar. Duis aliquam turpis mauris, sed ultricies erat dapibus.
 feature6Icon: icon major fa-diamond
