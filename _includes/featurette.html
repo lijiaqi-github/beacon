@@ -4,6 +4,7 @@
 		<h2>{{ site.featuretteTitle }}</h2>
 		<p>{{ site.featuretteTagline }}</p>
 		<div class="features">
+			{% if site.feature1Title %}
 			<a href="{{ site.feature1Url }}">
 			<section>
 				<span class="{{ site.feature1Icon }}"></span>
