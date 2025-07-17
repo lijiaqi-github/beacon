@@ -1622,7 +1622,7 @@
 	}
 
 	body {
-		background: #312450;
+		background: #D3D3D3;
 	}
 
 		body.is-loading *, body.is-loading *:before, body.is-loading *:after {
@@ -1976,7 +1976,7 @@
 		button.special,
 		.button.special {
 			background-color: #ffffff;
-			color: #312450 !important;
+			color: #000000 !important;
 		}
 
 			input[type="submit"].special:after,
@@ -2406,7 +2406,7 @@
 		}
 
 	select option {
-		background-color: #312450;
+		background-color: #000000;
 		color: #ffffff;
 	}
 
@@ -2482,7 +2482,7 @@
 		input[type="radio"]:checked + label:before {
 			background: #ffffff;
 			border-color: #ffffff;
-			color: #b74e91;
+			color: #000000;
 			content: '\f00c';
 		}
 
@@ -2552,7 +2552,7 @@
 			display: block;
 			background: #ffffff;
 			border-radius: 100%;
-			color: #312450;
+			color: #000000;
 			text-align: center;
 			line-height: 2.5em;
 			margin: 0 0 1.3em 0;
