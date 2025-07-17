@@ -2772,21 +2772,7 @@
 					ul.actions.fit li > * {
 						margin-bottom: 0;
 					}
-			ul.actions.uniform {
-			  display: grid;
- 			 grid-template-columns: repeat(4, 1fr);
- 			 gap: 1em;
- 			 padding-left: 0;
-			}
-
-			ul.actions.uniform li {
-			  padding: 0;
-			}
-
-			ul.actions.uniform li > * {
-			  width: 100%;
-			}
-
+			
 				ul.actions.fit.small {
 					margin-left: -0.5em;
 					width: calc(100% + 0.5em);
