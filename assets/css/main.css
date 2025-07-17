@@ -2742,6 +2742,11 @@
 				ul.actions.vertical li > * {
 					margin-bottom: 0;
 				}
+				ul.actions.vertical li > * {
+				  width: 350px; /* 您可以根据喜好调整这个宽度值，比如 300px 或 400px */
+ 				 margin-left: auto;
+ 				 margin-right: auto;
+				}
 
 			ul.actions.vertical.small li {
 				padding: 0.5em 0 0 0;
